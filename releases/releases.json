@@ -1,0 +1,19 @@
+{
+  "LibreELEC-9.80": {
+    "prettyname_regex": "^LibreELEC-.*-(devel.+)\\.",
+    "project": {
+      "Hisilicon.aarch64": {
+        "displayName": "Atto Pixel LE (9.80)",
+        "releases": {
+          "0": {
+            "file": {
+              "name": "LibreELEC-Hisilicon.aarch64-9.80-devel-20201223152707-db8be24.tar",
+              "folder": "9.80.8.2020.12.23"
+            }
+          }
+        }
+      }
+    },
+    "url": "https://github.com/hisielec/LibreELEC/releases/download/"
+  }
+}
