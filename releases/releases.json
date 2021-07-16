@@ -1,14 +1,14 @@
 {
-  "LibreELEC-9.80": {
+  "LibreELEC-10.0": {
     "prettyname_regex": "^LibreELEC-.*-(devel.+)\\.",
     "project": {
       "Hisilicon.aarch64": {
-        "displayName": "Atto Pixel LE (9.80)",
+        "displayName": "Atto Pixel LE (10.0)",
         "releases": {
           "0": {
             "file": {
-              "name": "LibreELEC-Hisilicon.aarch64-9.80-devel-20201223152707-db8be24.tar",
-              "folder": "9.80.8.2020.12.23"
+              "name": "LibreELEC-Hisilicon.aarch64-10.0-devel-20210716095255-d7a962c.tar",
+              "folder": "10.0.0.2021.07.16"
             }
           }
         }
