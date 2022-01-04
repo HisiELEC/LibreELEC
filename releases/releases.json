@@ -1,0 +1,19 @@
+{
+  "LibreELEC-11.0": {
+    "prettyname_regex": "^LibreELEC-.*-(devel.+)\\.",
+    "project": {
+      "Hisilicon.aarch64": {
+        "displayName": "Atto Pixel LE (11)",
+        "releases": {
+          "0": {
+            "file": {
+              "name": "LibreELEC-Hisilicon.aarch64-11.0-devel-20220104163829-e31a247.tar",
+              "folder": "10.80.4.2022.01.04"
+            }
+          }
+        }
+      }
+    },
+    "url": "https://github.com/hisielec/LibreELEC/releases/download/"
+  }
+}
