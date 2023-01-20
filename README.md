@@ -10,7 +10,7 @@ Decodificação de vídeo (via hardware): <i>MPEG-4 / MPEG-2 / H.264 / H.265 / V
 HDR: <i>HDR10/HLG</i><br>
 Tuner: <i>DVB-C (cabo)</i><br>
 Versão: <i>LibreELEC 11</i><br>
-Kernel: <i>v6.1</i><br>
+Kernel: <i>v6.1.7</i><br>
 Kodi: <i>Nexus - v20</i><br>
 Status: <i>Andamento</i><br>
 
@@ -27,8 +27,8 @@ Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELE
 5. Vamos restaurar uma imagem com os add-ons. No kodi, aperte a tecla vermelha e vá em <b>Restaurar imagem</b>.
 <img src="https://i.imgur.com/IEYlqq4.png">
 6. Após baixar a imagem, confirme a restauração. Vai reiniciar e aparecerá RSTR no visor do aparelho. Aguarde.<br>
-7. Ao fim. Configure oscam em ip:8888 com os respectivos dados.<br>
-8. Faça busca de canais diretamente em ip:9981 ou aperte a tecla verde e vá em <b>Busca de canais</b> e entre com frequência onde tenha canais na sua região (ex: 465).<br>
+7. Ao fim. Configure oscam em http://ip_do_aparelho:8888/ com os respectivos dados.<br>
+8. Faça busca de canais diretamente em http://ip_do_aparelho:9981/ ou aperte a tecla verde e vá em <b>Busca de canais</b> e entre com frequência onde tenha canais na sua região (ex: 465).<br>
 <img src="https://i.imgur.com/c8s6DWO.png">
 <img src="https://i.imgur.com/OawbK4U.png">
 
@@ -37,8 +37,14 @@ Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELE
 * Tvheadend Server 4.3 (Alpha) - service.tvheadend43
 * OSCam - service.softcam.oscam
 
+## :blue_book: A ser implementado (quem sabe):
+* Transcode de vídeo via hardware para TV
+* Configuração de imagem: brilho, contraste, nitidez etc.
+* Configuração recursos de imagem 
+
+
 ## :six_pointed_star: Informações adicionais
-TVheadend => http://ip_do_aparelho:9981 <br>
-oscam => http://ip_do_aparelho:8888 - usuário: oscam | senha: oscam<br>
-Samba => Usuário: libreelec | Senha: libreelec<br>
-SSH =>  Usuário: root | Senha: libreelec
+* TVheadend => http://ip_do_aparelho:9981/ <br>
+* oscam => http://ip_do_aparelho:8888/ - usuário: oscam | senha: oscam<br>
+* Samba => Usuário: libreelec | Senha: libreelec<br>
+* SSH =>  Usuário: root | Senha: libreelec
