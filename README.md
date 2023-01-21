@@ -1,6 +1,6 @@
 # :sparkles: LibreELEC
 
-LibreELEC é um sistema operacional com o necessário para rodar o Kodi.<br>
+LibreELEC (LE) é um sistema operacional com o necessário para rodar o Kodi.<br>
 O Tvheadend é usado como servidor de streaming (o que permite ver até três canais de diferentes frequências) no aparelho.
 
 ## :hammer: Status <br>
@@ -36,6 +36,13 @@ Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELE
 * Tvheadend HTSP Client - pvr.hts
 * Tvheadend Server 4.3 (Alpha) - service.tvheadend43
 * OSCam - service.softcam.oscam
+
+## :cd: Atualizações
+Em atualizações, não é necessário aplicar .upk no Android. <br>
+Já que o kernel do LE é atualizado junto com o sistema.<br>
+Para atualizar, envie o arquivo .tar para pasta /storage/.update ou vá em Atualizações-> Versões Disponíveis (ponha o canal em <br>LibreELEC-11.0</b>)<br>
+
+<img src="https://i.imgur.com/mmpovHJ.png">
 
 ## :blue_book: A ser implementado (quem sabe):
 * Transcode de vídeo via hardware para TV
