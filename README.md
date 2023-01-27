@@ -31,11 +31,13 @@ Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELE
 8. Faça busca de canais diretamente em http://ip_do_aparelho:9981/ ou aperte a tecla verde e vá em <b>Busca de canais</b> e entre com frequência onde tenha canais na sua região (ex: 465).<br>
 <img src="https://i.imgur.com/c8s6DWO.png">
 <img src="https://i.imgur.com/OawbK4U.png">
+9. Talvez seja necessário reiniciar.
 
 ## :heavy_check_mark: Add-ons necessários
 * Tvheadend HTSP Client - pvr.hts
 * Tvheadend Server 4.3 (Alpha) - service.tvheadend43
 * OSCam - service.softcam.oscam
+* TVheadend Setup
 
 ## :cd: Atualizações
 Em atualizações, não é necessário aplicar .upk no Android. <br>
