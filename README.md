@@ -29,9 +29,12 @@ Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELE
 6. Após baixar a imagem, confirme a restauração. Vai reiniciar e aparecerá RSTR no visor do aparelho. Aguarde.<br>
 7. Ao fim. Configure oscam em http://ip_do_aparelho:8888/ com os respectivos dados.<br>
 8. Faça busca de canais diretamente em http://ip_do_aparelho:9981/ ou aperte a tecla verde e vá em <b>Busca de canais</b> e entre com frequência onde tenha canais na sua região (ex: 465).<br>
-<img src="https://i.imgur.com/c8s6DWO.png">
+<img src="https://i.imgur.com/42IiNaU.png">
 <img src="https://i.imgur.com/OawbK4U.png">
-9. Talvez seja necessário reiniciar.
+9. Talvez seja necessário reiniciar.<br>
+10. Para atualizar EPG enquanto assiste TV, desative "Impedir atualizações durante a reprodução".<br>
+<img src="https://i.imgur.com/6zUOrEW.png">
+
 
 ## :heavy_check_mark: Add-ons necessários
 * Tvheadend HTSP Client - pvr.hts
@@ -40,9 +43,9 @@ Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELE
 * TVheadend Setup
 
 ## :cd: Atualizações
-Em atualizações, não é necessário aplicar .upk no Android. <br>
+Não é necessário aplicar .upk no Android. <br>
 Já que o kernel do LE é atualizado junto com o sistema.<br>
-Para atualizar, envie o arquivo .tar para pasta /storage/.update ou vá em Atualizações-> Versões Disponíveis (ponha o canal em <br>LibreELEC-11.0</b>)<br>
+Para atualizar, envie o arquivo .tar para pasta /storage/.update ou ponha o canal em <br>LibreELEC-11.0</b> e vá em Atualizações-> Versões Disponíveis.<br>
 
 <img src="https://i.imgur.com/mmpovHJ.png">
 
