@@ -10,7 +10,7 @@ Decodificação de vídeo (via hardware): <i>MPEG-4 / MPEG-2 / H.264 / H.265 / V
 HDR: <i>HDR10/HLG</i><br>
 Tuner: <i>DVB-C (cabo)</i><br>
 Versão: <i>LibreELEC 11</i><br>
-Kernel: <i>v6.1.7</i><br>
+Kernel: <i>v6.1.10</i><br>
 Kodi: <i>Nexus - v20</i><br>
 Status: <i>Andamento</i><br>
 
