@@ -9,8 +9,8 @@ SoC: <i>Hi3798Cv200</i><br>
 Decodificação de vídeo (via hardware): <i>MPEG-4 / MPEG-2 / H.264 / H.265 / VC1</i><br>
 HDR: <i>HDR10/HLG</i><br>
 Tuner: <i>DVB-C (cabo)</i><br>
-Versão: <i>LibreELEC 11</i><br>
-Kernel: <i>v6.1.21</i><br>
+Versão: <i>LibreELEC 12</i><br>
+Kernel: <i>v6.1.28</i><br>
 Kodi: <i>Omega - v21</i><br>
 Status: <i>Andamento</i><br>
 
