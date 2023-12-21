@@ -17,7 +17,7 @@ Status: <i>Andamento</i><br>
 ## :information_source: Instalação <br>
 
 A instalação é similar a do Debian/E2. E roda no SD.<br>
-Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELEC/LibreELEC/releases/tag/11.80.1.2023.07.15).
+Baixe os arquivos .upk e .img.gz mais recentes [aqui](https://github.com/HisiELEC/LibreELEC/releases/tag/11.80.5.2023.12.20).
 
 1. Aplique a atualização .upk no Android
 2. Grave a imagem do LibreELEC no SD usando dd (Linux) ou Win32DiskImager (Windows - descompacte img.gz e use o programa).<br>
